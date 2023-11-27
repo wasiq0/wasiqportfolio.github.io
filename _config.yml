@@ -1,16 +1,6 @@
 title: Wasiq Bakhsh
-logo: "WhatsApp Image 2023-11-26 at 9.57.02 PM.jpeg?raw=true"
-description: >
-  Data Analyst with a strong background in academic research and project management.
+logo: WhatsApp Image 2023-11-26 at 9.57.02 PM.jpeg?raw=true
+description:   Data Analyst with a strong background in academic research and project management.
   Currently looking for job opportunities involving challenging and exciting project.
-
-
-
-
-
-
-
- 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+show_downloads: true
+theme: jekyll-theme-minimal
